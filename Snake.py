@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python 123
 import pygame,sys,time,random
 from pygame.locals import *
 # 定义颜色变量
